@@ -1,3 +1,4 @@
+node_modules
 
 #Ignore thumbnails created by Windows
 Thumbs.db
