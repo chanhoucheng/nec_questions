@@ -29,4 +29,9 @@
       <Filter>Resource Files</Filter>
     </Xml>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

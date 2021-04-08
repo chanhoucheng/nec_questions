@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nec_q2", "nec_q2\nec_q2.vcxproj", "{C9FD5E44-2525-45E3-AD84-EEC679E3A95F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nec_q2_test", "nec_q2_test\nec_q2_test.vcxproj", "{CAD12B55-B0BA-48CC-8BB5-8D01C3B6373C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{C9FD5E44-2525-45E3-AD84-EEC679E3A95F}.Release|x64.Build.0 = Release|x64
 		{C9FD5E44-2525-45E3-AD84-EEC679E3A95F}.Release|x86.ActiveCfg = Release|Win32
 		{C9FD5E44-2525-45E3-AD84-EEC679E3A95F}.Release|x86.Build.0 = Release|Win32
+		{CAD12B55-B0BA-48CC-8BB5-8D01C3B6373C}.Debug|x64.ActiveCfg = Debug|x64
+		{CAD12B55-B0BA-48CC-8BB5-8D01C3B6373C}.Debug|x64.Build.0 = Debug|x64
+		{CAD12B55-B0BA-48CC-8BB5-8D01C3B6373C}.Debug|x86.ActiveCfg = Debug|Win32
+		{CAD12B55-B0BA-48CC-8BB5-8D01C3B6373C}.Debug|x86.Build.0 = Debug|Win32
+		{CAD12B55-B0BA-48CC-8BB5-8D01C3B6373C}.Release|x64.ActiveCfg = Release|x64
+		{CAD12B55-B0BA-48CC-8BB5-8D01C3B6373C}.Release|x64.Build.0 = Release|x64
+		{CAD12B55-B0BA-48CC-8BB5-8D01C3B6373C}.Release|x86.ActiveCfg = Release|Win32
+		{CAD12B55-B0BA-48CC-8BB5-8D01C3B6373C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

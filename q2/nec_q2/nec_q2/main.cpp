@@ -3,15 +3,13 @@
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
-
+#include "main.hpp"
 
 using namespace std;
 using namespace cv;
 using namespace cv::face;
 
-double calculate_score(vector<Rect> faces, vector< vector<Point2f> > landmarks, Rect contour);
-vector<vector<Point>> detect_contour(Mat src_gray);
-double div_ratio(double a, double b);
+
 int main(int argc, char** argv)
 {
 
